@@ -1,0 +1,63 @@
+    h3{
+        color:white;
+        text-align:center;
+        margin:10px 10px 0px 10px;
+    }
+    .header{
+      margin:10px 10px 0px 10px;
+      padding:10px;
+    }
+    .tabLink {
+      background-color: #555;
+      color: white;
+      float: left;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      padding: 5px;
+      font-size: 17px;
+      width: 25%;
+    }
+
+    .tabLink:hover {
+      background-color: #777;
+    }
+
+    .tabContent {
+      color: white;
+      display: none;
+      padding: 10px 10px;
+      overflow: hidden;
+      margin:0px 10px 0px 10px;
+    }
+
+    .topnav {
+      overflow: hidden;
+      background-color: #333;
+      position: relative;
+    }
+
+    .topnav span {
+      color: white;
+      padding: 10px 10px;
+      text-decoration: none;
+      font-size: 17px;
+      display: block;
+    }
+
+    .active {
+      background-color: #04AA6D;
+      color: white;
+    }
+    .vertical-line {
+            width: 0;
+            border: 2px solid green;
+            width : 90%;
+            margin:20px;
+        }
+    .verticalLine{
+        width: 0;
+        border: 2px solid red;
+        width : 90%;
+        margin:20px;
+    }
