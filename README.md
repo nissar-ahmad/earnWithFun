@@ -44,9 +44,9 @@ this web app is just for fun, not executed.
 
 | Layer       | Technology              |
 |-------------|--------------------------|
-| Frontend    | HTML, CSS, JavaScript, Bootstrap |
-| Backend     | Spring Boot    |
-| Database    | MySQL / PostgreSQL       |
+| Frontend    | JSP, HTML, CSS, JavaScript, Bootstrap |
+| Backend     | Spring Boot, Java, Hibernate    |
+| Database    | MySQL / PostgreSQL / Oracle      |
 | Auth        | JWT / Spring Security    |
 | Payments    | Razorpay / Stripe / Paytm (Test mode supported) |
 
