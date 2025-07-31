@@ -1,5 +1,5 @@
 # earnWithFun
-this web app is just for fun, not in reality executed. 
+this web app is just for fun, not executed. 
 
 # 💰 EarnWithFun
 
